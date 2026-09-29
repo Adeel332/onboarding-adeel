@@ -1,0 +1,2 @@
+# Expense Tracker CLI dependencies
+# Standard library is primarily used; optional dependencies can be listed here.

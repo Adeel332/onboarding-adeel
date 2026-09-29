@@ -40,5 +40,9 @@ env/
 *.swo
 
 # Data files
+*.csv
+*.json
+expenses.json
+expenses_export.csv
 week1/expense_tracker/expenses.json
 week1/expense_tracker/expenses_export.csv
